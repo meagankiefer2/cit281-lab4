@@ -5,14 +5,17 @@
 * Initialize as a Node.js project folder and add Fastify using Node Package Manager (npm)
 * Fix MIME error, test, and commit
 
+
 ### Technologies used
-	Fastify
-	Git software
-	Npm
-	Terminal
-    Visual Studio Code
+`Fastify`
+`Git software`
+`Npm`
+`Terminal`
+`Visual Studio Code`
+
+
 ### What I learned
-	How to add, test, and commit files using npm. 
+How to add, test, and commit files using npm. 
 
 
 Lab 4 JavaScript Code
